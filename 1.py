@@ -1,6 +1,6 @@
 # wrappiing up of data and function into a single entity
 # restricts access to methods and variables from outside
-# prevents data acidental opr unauthorised modificaton
+# prevents data accidental or unauthorised modificaton
 # provides security by hiding data from outside world
 class Person:
     def __init__(self, name, age):
